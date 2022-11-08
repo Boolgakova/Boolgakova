@@ -14,7 +14,7 @@ I'm studing in [Netology school](https://netology.ru) on the course "QA ingineer
 - Understanding of how HTTP works, knowing the difference between XML and JSON;
 - Can write SQL requests up to a simple JOIN;
 - Working with Git and Github;
-- Writing Autotests in JAVA: using JUnit, TestNG libraries, testing web applications using Selenium, Selenid, testing API with the c Rest-Assured;
+- Writing Autotests in JAVA: using JUnit, TestNG libraries, testing web applications using Selenium, Selenid, testing API with Rest-Assured;
 - Reporting with Allure;
 - Load testing using Jmeter;
 - Testing REST API using Postman;
