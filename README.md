@@ -1,7 +1,7 @@
 **Hi there**👋
 
 # I’m Nataliya Bulgakova<br>
-### Junior QA ingineer.
+### QA ingineer.
 
 I'm studing in [Netology school](https://netology.ru) on the course "QA ingineer". 
 
